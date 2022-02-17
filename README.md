@@ -13,6 +13,6 @@ Recreating MS Paint using Java
 * Change color
 * For solid shapes, fill/no fill option offered
 
-Design model:
+## Design model:
 
 ![Image](model.png)
