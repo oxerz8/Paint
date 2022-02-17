@@ -1,0 +1,102 @@
+# Fill in, commit and push each day.
+# Group Member: Daniil Oliynyk
+Oct 28, 2018
+	Yesterday :NA
+	Today     :NA
+	Obstacles :NA
+
+Oct 29, 2018
+	Yesterday :NA
+	Today     :Recieved assignment 
+	Obstacles :NA
+
+Oct 30, 2018
+	Yesterday :recieved assignment
+	Today     : added all members to members.txt and got in contact with out 4th random member
+	Obstacles :none
+
+Oct 31, 2018
+	Yesterday :added members, got in contact
+	Today     :met with members, started userstory1 
+	Obstacles :None
+
+Nov 1, 2018
+	Yesterday :finished userstory 1
+	Today     :recognized bug 6 is same as userstory 1, checked it off as fixed
+	Obstacles :none
+
+Nov 2, 2018
+	Yesterday :did no coding. Had other course work
+	Today     :Noticed a bug in Rectangle drawing mode. Taking up Bug2.
+	Obstacles :not noticing that i was casting ToggleButton to Button, kept getting that error and didnt realize. Fixed it
+
+Nov 3, 2018
+	Yesterday :^
+	Today     :no work, was out of town, had no reception or wifi
+	Obstacles :NA
+
+Nov 4, 2018
+	Yesterday :no work, was out of town, had no reception or wifi
+	Today     :no work, was out of town, had no reception or wifi
+	Obstacles :NA
+
+Nov 5, 2018
+	Yesterday :no work, was out of town, had no reception or wifi
+	Today     :no work, had other course work
+	Obstacles :NA
+
+Nov 6, 2018
+	Yesterday :no work, other course work
+	Today     :claimed userstory6 and started coding
+	Obstacles :none so far
+
+Nov 7, 2018
+	Yesterday :started on userstory6
+	Today     :finished userstory6, noticed small bug. Will either fix it tonight or tomorrow
+	Obstacles :came across a bug, will fix later
+
+Nov 8, 2018
+	Yesterday :^
+	Today     :fixed bug. Started bug7 and bug10 with michael. Also finihsed bug7 same day
+	Obstacles :lots. Mostly trying to decypher code and figure out how to implement design patterns
+
+Nov 9, 2018
+	Yesterday :^
+	Today     :Michael and Ifinished off bug10 pretty much. Ended up fixing a problem that was bugging us for hours yesterday, shape wasnt being referenced corrrectly causing a null pointer exception..
+		   The architecture had only circle implemented. I implemented the rest.
+	Obstacles :Null pointer excpetion same as yesterday but for different shape. Shape wasnt being created. 
+
+Nov 10, 2018
+	Yesterday :^
+	Today     :Ended up fixing the NPE. Turns out a small spelling error cause this one. Noticed command design wasnt implemented 100%, added the "invoker" so that all shapes can be drawn to the screen at once and not just the one that the
+		   mode is selected for.
+	Obstacles :Memory problems. After a few shapes the app slows down. Going to have another group member look at it. Michael and I have been stressing over this assignment like crazy past 2 days. We have other class work to do.
+		    Our other group members can fix this one.
+	
+Nov 11, 2018
+	Yesterday :Memory problems. After a few shapes the app slows down. Going to have another group member look at it. Michael and I have been stressing over this assignment like crazy past 2 days. We have other class work to do.
+		    Our other group members can fix this one.
+	
+	Today     :no work, studied for csc236
+	Obstacles :
+	
+Nov 12, 2018
+	Yesterday :no work, studied for csc236
+	Today     :no work, studied for csc236
+	Obstacles :
+
+Nov 13, 2018
+	Yesterday :no work, studied for csc236
+	Today     :no work, studied for csc236
+	Obstacles :
+
+Nov 14, 2018
+	Yesterday :no work, studied for csc236
+	Today     : wrote 236 test, fixed half of bug12 with michael.Intuition for what was causing the nug was right
+
+	Obstacles : trying to figure out what was causing the program to fry out GPUs. The program was redrawing every single command.
+Had to fix our command stack so it wouldnt redraw hundreds of commands  
+Nov 15, 2018
+	Yesterday: ^ 
+	Today: implemented polyline. 
+	Obstacles: polyline is really hard stuff wasnt drawing my head hurts

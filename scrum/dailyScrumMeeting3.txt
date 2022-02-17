@@ -1,0 +1,96 @@
+# Fill in, commit and push each day.
+# Group Member: FILL THIS IN
+Oct 28, 2018
+	Yesterday : Nothing
+	Today     : Nothing
+	Obstacles : None
+
+Oct 29, 2018
+	Yesterday : Nothing
+	Today     : Nothing
+	Obstacles : None
+
+Oct 30, 2018
+	Yesterday : Nothing
+	Today     : Nothing
+	Obstacles : None
+
+Oct 31, 2018
+	Yesterday : Nothing
+	Today     : Met with group and assigned members to work on user stories. Finished UserStory3
+	Obstacles : Understanding the assignment code
+
+Nov 1, 2018
+	Yesterday : Met with group and assigned members to work on user stories. Finished UserStory3
+	Today     : Nothing
+	Obstacles : None
+
+Nov 2, 2018
+	Yesterday : Nothing
+	Today     : Began working on UserStory4
+	Obstacles : Understanding how to approach the problem
+
+Nov 3, 2018
+	Yesterday : Began working on UserStory4
+	Today     : Nothing
+	Obstacles : None
+
+Nov 4, 2018
+	Yesterday : Nothing
+	Today     : Finished UserStory4 and fixed a bug in the code I wrote for UserStory3. Also finished UserStory2.
+	Obstacles : Figuring out how to clear incorrect rectangles.
+
+Nov 5, 2018
+	Yesterday : Finished UserStory4 and fixed a bug in the code I wrote for UserStory3. Also finished UserStory2.
+	Today     : Nothing
+	Obstacles : None
+
+Nov 6, 2018
+	Yesterday : Nothing
+	Today     : Nothing
+	Obstacles : None
+
+Nov 7, 2018
+	Yesterday : Nothing
+	Today     : Nothing
+	Obstacles : None
+
+Nov 8, 2018
+	Yesterday : Nothing
+	Today     : Met with group to discuss program design strategies
+	Obstacles : Implementing the strategies
+
+Nov 9, 2018
+	Yesterday : Met with group to discuss program design strategies
+	Today     : Nothing
+	Obstacles : None
+
+Nov 10, 2018
+	Yesterday : Nothing
+	Today     : Nothing
+	Obstacles : None
+	
+Nov 11, 2018
+	Yesterday : Nothing
+	Today     : Nothing
+	Obstacles : None
+	
+Nov 12, 2018
+	Yesterday : Nothing
+	Today     : Worked on implementing Square with the new design strategies
+	Obstacles : Implementing the code in a new way
+
+Nov 13, 2018
+	Yesterday : Worked on implementing Square with the new design strategies
+	Today     : Continued working on Square
+	Obstacles : Getting it to work properly
+
+Nov 14, 2018
+	Yesterday : Continued working on Square
+	Today     : Continued working on Square
+	Obstacles : Solving the bug
+	
+Nov 15, 2018
+	Yesterday : Continued working on Square
+	Today 	  : Last attempt at correcting the Square bug
+	Obstacles : Figuring out where to implement the solution

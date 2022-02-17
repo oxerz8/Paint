@@ -1,0 +1,96 @@
+gi# Fill in, commit and push each day.
+# Group Member: Michael
+Oct 28, 2018
+	Yesterday :
+	Today     :
+	Obstacles :
+
+Oct 29, 2018
+	Yesterday :
+	Today     :
+	Obstacles :
+
+Oct 30, 2018
+	Yesterday : Recieved the Assignment
+	Today     : Added information to the members.txt file
+	Obstacles : None
+
+Oct 31, 2018
+	Yesterday :	Added information to the members.txt file
+	Today     :	Met with the team, started on UserStory5
+	Obstacles :
+
+Nov 1, 2018
+	Yesterday : Met with the team, started on UserStory5
+	Today     : Nothing Had a Test
+	Obstacles :
+
+Nov 2, 2018
+	Yesterday : Nothing Had a Test
+	Today     : Nothing Had other Course Work
+	Obstacles :
+
+Nov 3, 2018
+	Yesterday : Nothing
+	Today     : Nothing
+	Obstacles :
+
+Nov 4, 2018
+	Yesterday : Nothing
+	Today     : Started on User Story 7
+	Obstacles : Had issuses with the layout of the combobox
+
+Nov 5, 2018
+	Yesterday : Started on User Story 7
+	Today     : Studied for Stats
+	Obstacles :
+
+Nov 6, 2018
+	Yesterday : Studied for Stats
+	Today     : Finished User Story 7
+	Obstacles : Need to change the rectangle and circle files
+
+Nov 7, 2018
+	Yesterday : Finished User Story 7
+	Today     : Helped with telling the group members to edit the classes to solve the Fill issue and color issue by having them saved by the model itself
+	Obstacles :
+
+Nov 8, 2018
+	Yesterday : Helped group members
+	Today     : Finished Bug 7 and worked on Bug 10 with Daniil
+	Obstacles : Figure out which design patterns to use
+
+Nov 9, 2018
+	Yesterday : Finished Bug 7 and worked on Bug 10 with Daniil
+	Today     : Helped group members implement the new design patterns on square and squiggle
+	Obstacles :
+
+Nov 10, 2018
+	Yesterday :
+	Today     : Studied for 236
+	Obstacles :
+	
+Nov 11, 2018
+	Yesterday : Studied for 236
+	Today     : Studied for 236
+	Obstacles :
+	
+Nov 12, 2018
+	Yesterday : Studied for 236
+	Today     : Studied for 236
+	Obstacles :
+
+Nov 13, 2018
+	Yesterday : Studied for 236
+	Today     : Studied for 236
+	Obstacles :
+
+Nov 14, 2018
+	Yesterday : Studied for 236
+	Today     : Wrote the 236 test, worked with Daniil on fixing Bug12.
+	Obstacles : Tracing through the code to find where it was drawing multiple circles in one location
+
+Nov 15, 2018
+	Yesterday : Worked on Bug12
+	Today     : Worked on UserStory10, Bug 12, Bug 14, and updated the aritechture.txt file
+	Obstacles :	Issue with getting the square working properly had to change the starting pointsg

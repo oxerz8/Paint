@@ -1,0 +1,97 @@
+# Fill in, commit and push each day.
+# Group Member: Sidharth
+Oct 28, 2018
+	Yesterday :None
+	Today     :None
+	Obstacles :None
+
+Oct 29, 2018
+	Yesterday :None
+	Today     :None
+	Obstacles :None
+
+Oct 30, 2018
+	Yesterday :None
+	Today     :Recieved Assignment 2, updated members.txt
+	Obstacles :None
+
+Oct 31, 2018
+	Yesterday :None
+	Today     :None
+	Obstacles :None
+
+Nov 1, 2018
+	Yesterday : None
+	Today     : Working on Bug 1.
+	Obstacles : Couldn't figure out how to make the icons yet
+
+Nov 2, 2018
+	Yesterday : Worked on Bug 1
+	Today     : Finished working on bug 1
+	Obstacles : None
+
+Nov 3, 2018
+	Yesterday :Finished bug 1
+	Today     : Worked on other courses
+	Obstacles : None
+
+Nov 4, 2018
+	Yesterday : None
+	Today     : Working on user story 5
+	Obstacles : None
+
+Nov 5, 2018
+	Yesterday : Finished Userstory 5
+	Today     : Studying for stats
+	Obstacles :
+
+Nov 6, 2018
+	Yesterday : No coding
+	Today     : Dealing with merge conflicts
+	Obstacles :
+
+Nov 7, 2018
+	Yesterday : Figured out merge conflicts and repo is upto date
+	Today     : Started working on bug 5
+	Obstacles : Can't figure out how to have separate squiggle lines
+
+Nov 8, 2018
+	Yesterday : Worked on bug 5
+	Today     : Continuing with bug 5
+	Obstacles :
+
+Nov 9, 2018
+	Yesterday : Nothing
+	Today     : Studying css236
+	Obstacles : Nothing
+
+Nov 10, 2018
+	Yesterday : Nothing
+	Today     : Studying other courses
+	Obstacles :
+	
+Nov 11, 2018
+	Yesterday : Studied other courses
+	Today     : Worked on bug5
+	Obstacles : Not working properly
+	
+Nov 12, 2018
+	Yesterday : Bug5 still not working
+	Today     : Had an idea to fix it. Didn't work. Fixed some previous issues
+	Obstacles : 
+
+Nov 13, 2018
+	Yesterday : 
+	Today     : Cleared out the useless code.
+	Obstacles :
+
+Nov 14, 2018
+	Yesterday : didn't do anything
+	Today     : studying for 236
+	Obstacles :
+	
+Nov 15, 2018
+	Yesterday : Studied 236
+	Today	  : Working on Bug5. Finished bug 5 for the most part
+	Obstacles: Color and thickness doesnt work for squiggle
+	

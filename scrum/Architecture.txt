@@ -1,0 +1,73 @@
+# Please discuss your architectural decisions below.
+
+High Level Architecture:
+
+	MVC
+	To keep the code simple, a partial MVC was implemented.
+	
+	Model
+	The Model captures enough information to re-draw the sketch of
+	the user.
+	
+	View+Controller
+	There is a View class as well as a few, what we call, view components.
+	The View class captures the Stage as well
+	as containing all of its components.
+	View components are meant to be contained in the main View.
+	Examples of view components are PaintPanel and ShapeChooserPanel.
+	
+	The View class, and view components all implements their own controller.
+	For example, the PaintPanel listens to its own MouseEvents.
+	This is instead of separating out the Controller from the View. This choice
+	was made to simplify the code, yet still keep it modular and clear.
+	
+	Each view component can see the containing View as well as the Model
+	as appropriate. This means that each view component can speak to the
+	other view components. An example of this is when the ShapeChooserPanel
+	buttons are clicked, resulting in a mode change in the PaintPanel.
+	
+---------------------------------------------------------------------
+TODO!!! Add in more architecture and discussion. For example, 
+do you do something interesting to fix the association between the 
+ShapeChooser and the PaintPanel? How about the PaintModel, something
+is clearly wrong with it. Can you come up with a better architecture?
+---------------------------------------------------------------------
+
+DESIGN PATTERNS USED
+	TODO!!! If you introduce a Design Pattern to solve a problem, 
+	discuss it below. Only add design patterns if they simplify and improve
+	the code. I see at least two that would greatly improve code. 
+	
+	Factory: 
+		Factory was used to help simplify the code. It's purpose is to return a Strategy 
+		due to the selected button. Each button signifies a shape. The factory is called 
+		in the PaintPanel. Here when a mouse event is detected, the factory determines which 
+		Shape was selected and returns the appropriate strategy for that.
+	
+		Factory returns a Strategy.
+	
+	Strategy:
+		The strategy is used to handle the mouse events for a specific shape. They extend the
+		ShapeManipulatorStrategy, which is an interface which has the function, 
+		mouseEvent. In the specific implemented Strategy this handles what happens in relation 
+		of the mouse event, location, list of shapes and repaint function. 
+		
+		For example: With a circle there is a difference of steps done when there is a 
+					MousePressed and MouseReleased. 
+		
+		At the correct point and with the correct Mouse event, the strategy calls the repaint 
+		function. The strategy also will add or remove a shape from the arraylist of shapes
+	
+	Command: 
+		The Command is used to handle the actual drawing and execution of the 
+		shape in relation to the screen. First the DrawCommand interface is implemented by the 
+		specific shape which holds the execute function. For each of the implemented 
+		command designs it draws that shape to the screen.
+		
+		For example: With a Rectangle it draws a rectangle at point x, y, with a given width and
+					height.
+		
+		This command is called in the repaint function and a switch case chooses the correct 
+		command for the given shape.
+	
+OTHER ARCHITECTURE DISCUSSIONS
