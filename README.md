@@ -16,3 +16,10 @@ Recreating MS Paint using Java
 ## Design model:
 
 ![Image](model.png)
+
+## Contributors:
+* Sidharth Khurana
+* Michael Skotar
+* Danill Oliynyk
+* Lucas Kamara
+This project was created as part of an assignment for the class CSC207 for the year 2018 at Univerisity of Toronto Mississauga.
